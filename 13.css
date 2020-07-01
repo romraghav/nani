@@ -1,0 +1,24 @@
+body{background:rgb(132, 208, 221);
+     font-family:"Metal Mania", cursive;}
+#mainnav .navbar-brand{color:#ea1c2c;}
+#mainnav{font-size: 1.5rem;}
+#mainnav .nav-link:hover {color:#ea1c2c;}
+#pika span{color: #ea1c2c;}
+#pika h1{font-weight: 200;
+         font-size: 3rem;}
+@media (max-width: 1200 px) 
+{#pika h1{font-weight: 200;
+         font-size: 3rem;}}
+.desu h2{color: #ea1c2c;
+         font-weight:100;
+         font-size:2.5rem;}
+.desu p{color:#001affef;
+        font-weight: 100;
+        font-size: 1.125rem;
+        line-height: 2;}
+.contact{margin-top:100px;}
+#death{max-width:7rem;}
+#sao{max-width:11rem;}
+#hero{max-width:9rem;}
+.navbar.scrolled{background:rgb(47, 14, 211);
+                  transition: background 500ms;}
